@@ -1,0 +1,2 @@
+press = false
+timer = false
